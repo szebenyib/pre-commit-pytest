@@ -1,0 +1,7 @@
+-   id: pytest
+    name: pytest
+    entry: pytest
+    language: python
+    always_run: true
+    args: []
+
