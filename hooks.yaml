@@ -3,5 +3,4 @@
     entry: pytest
     language: python
     always_run: true
-    args: []
-
+    pass_filenames: false
