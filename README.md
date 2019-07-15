@@ -10,7 +10,7 @@ For pytest: see `https://pytest.org`
 
 Add this to your `.pre-commit-config.yaml`:
 
-    -   repo: https://github.com/szebenyib/pre-commit-pylint
+    -   repo: https://github.com/szebenyib/pre-commit-pytest
         sha: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: pytest
